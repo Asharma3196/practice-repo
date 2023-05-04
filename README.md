@@ -6,5 +6,6 @@ Beginning Repo!!!
 
 In demo 
 
+## Local Development
 
-
+1.open index.html in browser
